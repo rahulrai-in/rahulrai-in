@@ -1,6 +1,6 @@
 ## Rahul Rai <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-[![Twitter Badge](https://img.shields.io/twitter/follow/rahulrai_in?style=social)](https://twitter.com/rahulrai_in)  [![Linkedin Badge](https://img.shields.io/badge/-rahulrai-in-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahulrai-in//)](https://www.linkedin.com/in/rahulrai-in/)
+[![Twitter Badge](https://img.shields.io/twitter/follow/rahulrai_in?style=social)](https://twitter.com/rahulrai_in)  [![Linkedin Badge](https://img.shields.io/badge/-RahulRai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahulrai-in/)](https://www.linkedin.com/in/rahulrai-in/)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
