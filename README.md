@@ -6,7 +6,7 @@
 
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
 -  **Languages :** C#, Golang, SQL
--  **Hobbies :** Articles & Music :headphones:
+-  **Hobbies :** Writing & Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart: 
 -  **Location :** Sydney, AU
 
