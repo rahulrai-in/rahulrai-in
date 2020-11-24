@@ -16,4 +16,8 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![GH Readme Visits](https://badge.tcblab.net/api/hc/rahul/gh-readme)
+<p align="center">
+  <a href="https://github.com/rahulrai-in/hit-counter-fx">
+    <img src="https://badge.tcblab.net/api/hc/rahul/gh-readme"/>
+  </a>
+</p>
