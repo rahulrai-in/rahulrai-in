@@ -15,3 +15,5 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=rahulrai-in&show_icons=true)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![GH Readme Visits](https://badge.tcblab.net/api/hc/rahul/gh-readme)
